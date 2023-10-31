@@ -87,7 +87,7 @@ let totalShoppingCart = 70
 let costoSpedizione = 10
 let scontoBlackFriday= (totalShoppingCart / 100 )* 20
 
-if( blacFriday > 50){
+if( scontoBlackFriday > 50){
   costoSpedizione = 0
 }
 
